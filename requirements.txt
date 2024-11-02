@@ -1,0 +1,15 @@
+# Ansible and Core Dependencies
+ansible-core==2.14.11
+
+# Google Cloud dependencies
+google-auth>=2.22.0
+google-auth-httplib2>=0.1.0
+google-cloud-container>=2.21.0
+kubernetes>=26.1.0
+openshift>=0.13.1
+requests>=2.31.0
+cryptography>=41.0.0
+
+# Argo CD dependencies
+PyYAML>=6.0
+jsonschema>=4.17.3

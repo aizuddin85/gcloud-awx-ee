@@ -1,0 +1,11 @@
+curl
+python39-devel
+python39-pip
+python39-setuptools
+gcc
+gcc-c++
+git
+wget
+unzip
+which
+tar
